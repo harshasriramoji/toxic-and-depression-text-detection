@@ -1,0 +1,17 @@
+{
+  "svm_weight": 0.0,
+  "label2id": {
+    "depression": 0,
+    "normal": 1,
+    "toxic": 2
+  },
+  "id2label": {
+    "0": "depression",
+    "1": "normal",
+    "2": "toxic"
+  },
+  "metrics": {
+    "test_accuracy": 1.0,
+    "test_macro_f1": 1.0
+  }
+}
