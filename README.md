@@ -9,7 +9,7 @@ An end-to-end Natural Language Processing system engineered to identify **Depres
 On regional college forums, student confession pages, and campus messaging groups (such as NIT Warangal, KITS, Kakatiya University), students frequently communicate using a hybrid mixture of English and phonetic Latin-script Telugu (Tenglish). 
 
 
-https://toxic-and-depression-text-detection.onrender.comhttps://toxic-and-depression-text-detection.onrender.com
+https://toxic-and-depression-text-detection.onrender.com
 
 This project tackles two critical safety challenges:
 1. **Depression Detection**: Detecting covert signs of severe mental distress, hopelessness, isolation, somatic anxiety, and suicidal ideation so that non-intrusive support and emergency helplines can be surfaced.
